@@ -1,0 +1,61 @@
+@font-face {
+  src: local('Merriweather Regular'), local('Merriweather-Regular'),
+  url(../fonts/Merriweather-Regular.woff2) format('woff2'),
+  url(../fonts/Merriweather-Regular.woff) format('woff');
+  font-family: 'Merriweather';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: local('Merriweather Bold'), local('Merriweather-Bold'),
+  url(../fonts/Merriweather-Bold.woff2) format('woff2'),
+  url(../fonts/Merriweather-Bold.woff) format('woff');
+  font-family: 'Merriweather';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: local('GolosText Regular'), local('GolosText-Regular'),
+  url(../fonts/GolosText-Regular.woff2) format('woff2'),
+  url(../fonts/GolosText-Regular.woff) format('woff');
+  font-family: 'Golos Text';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: local('GolosText Medium'), local('GolosText-Medium'),
+  url(../fonts/GolosText-Medium.woff2) format('woff2'),
+  url(../fonts/GolosText-Medium.woff) format('woff');
+  font-family: 'Golos Text';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: local('GolosText SemiBold'), local('GolosText-SemiBold'),
+  url(../fonts/GolosText-SemiBold.woff2) format('woff2'),
+  url(../fonts/GolosText-SemiBold.woff) format('woff');
+  font-family: 'Golos Text';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: local('GolosText Bold'), local('GolosText-Bold'),
+  url(../fonts/GolosText-Bold.woff2) format('woff2'),
+  url(../fonts/GolosText-Bold.woff) format('woff');
+  font-family: 'Golos Text';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+
